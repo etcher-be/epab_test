@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+epab = {git = "https://github.com/etcher-be/epab"}
 
 [dev-packages]
 epab = "*"

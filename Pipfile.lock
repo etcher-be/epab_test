@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "35b408d38b67a1cd79b4f6072d604342d391c9292756df5c149a53914cf16d9f"
+            "sha256": "efdc476d75c926ce53a789ff08afd9c3237a9cb9fd7de9f3c718de4f4d9d3aad"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -15,7 +15,12 @@
             }
         ]
     },
-    "default": {},
+    "default": {
+        "epab": {
+            "git": "https://github.com/etcher-be/epab",
+            "ref": "4b2f1d242a16198ab8a056af23e9fec7a608195a"
+        }
+    },
     "develop": {
         "apipkg": {
             "hashes": [
@@ -163,9 +168,9 @@
         },
         "elib-config": {
             "hashes": [
-                "sha256:a85eae907da84bebd6e3ffa2db8fa63317f2c4562770dfb21c8236b73634b16b"
+                "sha256:31a714afeceb819289c2f64eadc656350a86590928b362998ce8cc5cd52b0657"
             ],
-            "version": "==2018.10.26.1"
+            "version": "==2018.10.29.1"
         },
         "elib-run": {
             "hashes": [
@@ -174,11 +179,8 @@
             "version": "==2018.10.26.1"
         },
         "epab": {
-            "hashes": [
-                "sha256:ce63a5bb77b5bebad34a5b6bfe82735c80340c1b5f4fabe21b1d4eec9b2e3ba8"
-            ],
-            "index": "pypi",
-            "version": "==2018.10.29.1"
+            "git": "https://github.com/etcher-be/epab",
+            "ref": "4b2f1d242a16198ab8a056af23e9fec7a608195a"
         },
         "execnet": {
             "hashes": [
