@@ -295,3 +295,14 @@ package_name = "epab_test"
 #
 make = false
 
+[tool.epab.twine]
+# Upload package to Twine after build
+# value type: boolean
+# "true" and "false" are the only valid boolean values
+# example = true
+# example = false
+# Setting this value is not required; you can leave it commented out.
+# The default value (the one that will be used if you do not provide another) is shown below:
+#
+upload = false
+
