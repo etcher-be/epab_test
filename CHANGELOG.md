@@ -1,4 +1,7 @@
 # Changelog
+## 2018.10.31.3
+### Other
+* Dummy3. [etcher-be]
 ## 2018.10.31.2
 ### Other
 * Dummy2. [etcher-be]
