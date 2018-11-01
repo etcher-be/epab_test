@@ -1,6 +1,10 @@
 # Changelog
+## 2018.11.01.5
+### Other
+* Dummy13. [etcher-be]
 ## 2018.11.01.4
 ### Other
+* Dev: release 2018.11.01.4 [skip ci] [etcher]
 * Dummy12. [etcher-be]
 ## 2018.11.01.3
 ### Other
