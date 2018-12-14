@@ -1,6 +1,10 @@
 # Changelog
+## 2018.12.14.1
+### Other
+* Create LICENSE. [etcher]
 ## 2018.11.01.6
 ### Other
+* Dev: release 2018.11.01.6 [skip ci] [etcher]
 * Dummy14. [etcher-be]
 ## 2018.11.01.5
 ### Other
